@@ -1,0 +1,36 @@
+.boxed {
+    margin: auto;
+    max-width: 1200px;
+}
+
+.boxed .site {
+    -webkit-box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.site {
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.align {
+    &-center {
+        text-align: center;
+    }
+    &-left {
+        text-align: left;
+    }
+    &-right {
+        text-align: right;
+    }
+}
+
+.row,
+.container {
+    &:before, &:after {
+        display: none !important;
+    }
+}

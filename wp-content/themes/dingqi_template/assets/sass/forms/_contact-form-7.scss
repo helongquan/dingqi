@@ -1,0 +1,42 @@
+.wpcf7-form {
+    .row {
+        margin: 0 -5px;
+    }
+    [class*='col-'] {
+        padding: 0 5px;
+    }
+    textarea {
+        height: 110px;
+    }
+}
+
+.form1 {
+    select, textarea, input {
+        border: none;
+        background-color: #65656f;
+        color: #fff;
+        &:focus {
+            background-color: #fff;
+            color: #888;
+        }
+    }
+    input:-moz-placeholder,
+    textarea:-moz-placeholder {
+        color: #fff;
+    }
+
+    input::-moz-placeholder,
+    textarea::-moz-placeholder {
+        color: #fff;
+    }
+
+    input:-ms-input-placeholder,
+    textarea:-ms-input-placeholder {
+        color: #fff;
+    }
+
+    input::-webkit-input-placeholder,
+    textarea::-webkit-input-placeholder {
+        color: #fff;
+    }
+}

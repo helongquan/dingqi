@@ -1,0 +1,16 @@
+[START=WIDGET LOGIC OPTIONS]
+text-2	""
+text-3	""
+better-menu-widget-2	""
+tag_cloud-2	"!is_tree(442)"
+woocommerce_price_filter-2	""
+woocommerce_product_categories-2	""
+woocommerce_top_rated_products-2	""
+text-6	"is_tree(442)"
+text-7	"is_tree(442)"
+better-menu-widget-3	"is_tree(442)"
+categories-3	"!is_tree(442)"
+text-8	""
+text-9	""
+text-10	""
+[STOP=WIDGET LOGIC OPTIONS]

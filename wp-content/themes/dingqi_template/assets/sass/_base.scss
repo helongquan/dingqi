@@ -1,0 +1,18 @@
+
+a {
+    text-decoration: none;
+    @extend %transit;
+}
+
+#map-canvas img {
+    max-width: none; // fix google map
+}
+
+.clear,
+.entry-content,
+.comment-content,
+.site-header,
+.site-content,
+.site-footer {
+    @extend %clearfix;
+}

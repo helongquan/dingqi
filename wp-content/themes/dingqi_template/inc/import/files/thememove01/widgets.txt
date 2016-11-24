@@ -1,0 +1,55 @@
+a:2:{s:8:"sidebars";a:10:{s:9:"sidebar-1";a:5:{i:0;s:20:"better-menu-widget-3";i:1;s:6:"text-6";i:2;s:6:"text-7";i:3;s:12:"categories-3";i:4;s:11:"tag_cloud-2";}s:10:"top-slider";a:0:{}s:13:"header01-info";a:1:{i:0;s:6:"text-2";}s:13:"header02-info";a:1:{i:0;s:7:"text-10";}s:13:"header03-info";a:1:{i:0;s:6:"text-9";}s:12:"sidebar-shop";a:3:{i:0;s:32:"woocommerce_product_categories-2";i:1;s:26:"woocommerce_price_filter-2";i:2;s:32:"woocommerce_top_rated_products-2";}s:6:"footer";a:1:{i:0;s:6:"text-3";}s:7:"footer2";a:0:{}s:7:"footer3";a:1:{i:0;s:20:"better-menu-widget-2";}s:7:"footer4";a:1:{i:0;s:6:"text-8";}}s:7:"widgets";a:31:{s:5:"pages";a:1:{s:12:"_multiwidget";i:1;}s:8:"calendar";a:1:{s:12:"_multiwidget";i:1;}s:8:"archives";a:1:{s:12:"_multiwidget";i:1;}s:4:"meta";a:1:{s:12:"_multiwidget";i:1;}s:6:"search";a:1:{s:12:"_multiwidget";i:1;}s:4:"text";a:9:{i:1;a:0:{}i:2;a:3:{s:5:"title";s:0:"";s:4:"text";s:756:"<div class="top-info">
+    <div class="left primary_color"><span class="pe-7s-call"></span></div>
+    <div class="right">
+        <span class="title">001 735 9193</span>
+        <span class="text">info@example.com</span>
+    </div>
+</div>
+<div class="top-info">
+    <div class="left primary_color"><span class="pe-7s-map-marker"></span></div>
+    <div class="right">
+        <span class="title">350 Fifth Avenue</span>
+        <span class="text">New York, NY 90210</span>
+    </div>
+</div>
+<div class="top-info">
+    <div class="left primary_color"><span class="pe-7s-clock"></span></div>
+    <div class="right">
+        <span class="title">7:30 AM - 7:30 PM</span>
+        <span class="text">Monday to Saturday</span>
+    </div>
+</div>";s:6:"filter";b:0;}i:3;a:3:{s:5:"title";s:0:"";s:4:"text";s:516:"<img src="http://finance.thememove.com/data/images/logo_02.png"/><br/><br/>
+Finance Plus is one of the world’s leading financial consulting firms.
+<p>&nbsp;</p>
+<p><i class="fa fa-map-marker"></i> &nbsp; 14 Tottenham Court Road, London, England.</p>
+<p><i class="fa fa-phone"></i>  &nbsp; (102) 6666 8888</p>
+<p><i class="fa fa-envelope"></i>  &nbsp; <a href="mailto:info@thememove.com">info@thememove.com</a></p>
+<p><i class="fa fa-desktop"></i>  &nbsp; <a href="www.thememove.com">www.thememove.com</a></p>";s:6:"filter";b:0;}i:6;a:3:{s:5:"title";s:7:"Contact";s:4:"text";s:328:"<p><i class="fa fa-map-marker"></i> &nbsp; 350 Fifth Avenue, 34th floor, New York, NY 10118-3299 USA</p>
+<p><i class="fa fa-phone"></i>  &nbsp; (102) 6666 8888</p>
+<p><i class="fa fa-envelope"></i>  &nbsp; <a href="mailto:info@thememove.com">info@thememove.com</a></p>
+<p><i class="fa fa-fax"></i>  &nbsp; (102) 8888 9999</p>";s:6:"filter";b:0;}i:7;a:3:{s:5:"title";s:9:"Brochures";s:4:"text";s:330:"View our 2016 financial prospectus brochure for an easy to read guide on all of the services offer.
+<br/><br/>
+<p><a href="#pdf" class="brochures brochures-pdf">Download .PDF</a></p>
+<p><a href="#doc" class="brochures brochures-doc">Download .DOC</a></p>
+<p><a href="#ppt" class="brochures brochures-ppt">Download .PPT</a></p>";s:6:"filter";b:0;}i:8;a:3:{s:5:"title";s:9:"Subscribe";s:4:"text";s:90:"<div class="footer-subscribe">[mc4wp_form id="1122"]</div>
+Get latest updates and offers.";s:6:"filter";b:0;}i:9;a:3:{s:5:"title";s:0:"";s:4:"text";s:751:"<div class="top-info">
+    <div class="left primary_color"><span class="pe-7s-call"></span></div>
+    <div class="right">
+        <span class="title">001 735 9193</span>
+        <span class="text">info@example.com</span>
+    </div>
+</div>
+<div class="top-info">
+    <div class="left primary_color"><span class="pe-7s-map-marker"></span></div>
+    <div class="right">
+        <span class="title">Carlos Hall</span>
+        <span class="text">New York, NY 90210</span>
+    </div>
+</div>
+<div class="top-info">
+    <div class="left primary_color"><span class="pe-7s-clock"></span></div>
+    <div class="right">
+        <span class="title">7:30 AM - 7:30 PM</span>
+        <span class="text">Monday to Saturday</span>
+    </div>
+</div>";s:6:"filter";b:0;}i:10;a:3:{s:5:"title";s:0:"";s:4:"text";s:214:"<i class="fa fa-phone"></i> 001 735 9193 &nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-envelope-o"></i> info@financeplus.com &nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker"></i> 1010 Avenue of the Moon, NY 10018 US. ";s:6:"filter";b:0;}s:12:"_multiwidget";i:1;}s:10:"categories";a:2:{i:3;a:4:{s:5:"title";s:10:"Categories";s:5:"count";i:0;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}s:12:"_multiwidget";i:1;}s:12:"recent-posts";a:1:{s:12:"_multiwidget";i:1;}s:15:"recent-comments";a:1:{s:12:"_multiwidget";i:1;}s:3:"rss";a:2:{i:1;a:0:{}s:12:"_multiwidget";i:1;}s:9:"tag_cloud";a:2:{i:2;a:2:{s:5:"title";s:0:"";s:8:"taxonomy";s:8:"post_tag";}s:12:"_multiwidget";i:1;}s:8:"nav_menu";a:1:{s:12:"_multiwidget";i:1;}s:22:"woothemes_testimonials";a:1:{s:12:"_multiwidget";i:1;}s:15:"ess-grid-widget";a:1:{s:12:"_multiwidget";i:1;}s:8:"projects";a:1:{s:12:"_multiwidget";i:1;}s:28:"woothemes-project-categories";a:1:{s:12:"_multiwidget";i:1;}s:17:"rev-slider-widget";a:1:{s:12:"_multiwidget";i:1;}s:18:"better-menu-widget";a:3:{i:2;a:2:{s:5:"title";s:7:"Explore";s:8:"nav_menu";s:7:"explore";}i:3;a:2:{s:5:"title";s:0:"";s:8:"nav_menu";s:12:"our-services";}s:12:"_multiwidget";i:1;}s:23:"woocommerce_widget_cart";a:1:{s:12:"_multiwidget";i:1;}s:31:"woocommerce_layered_nav_filters";a:1:{s:12:"_multiwidget";i:1;}s:23:"woocommerce_layered_nav";a:1:{s:12:"_multiwidget";i:1;}s:24:"woocommerce_price_filter";a:2:{i:2;a:1:{s:5:"title";s:15:"Filter by price";}s:12:"_multiwidget";i:1;}s:30:"woocommerce_product_categories";a:2:{i:2;a:7:{s:5:"title";s:18:"Product Categories";s:7:"orderby";s:4:"name";s:8:"dropdown";i:0;s:5:"count";i:0;s:12:"hierarchical";i:1;s:18:"show_children_only";i:0;s:10:"hide_empty";i:0;}s:12:"_multiwidget";i:1;}s:26:"woocommerce_product_search";a:1:{s:12:"_multiwidget";i:1;}s:29:"woocommerce_product_tag_cloud";a:1:{s:12:"_multiwidget";i:1;}s:20:"woocommerce_products";a:1:{s:12:"_multiwidget";i:1;}s:26:"woocommerce_recent_reviews";a:1:{s:12:"_multiwidget";i:1;}s:36:"woocommerce_recently_viewed_products";a:1:{s:12:"_multiwidget";i:1;}s:30:"woocommerce_top_rated_products";a:2:{i:2;a:2:{s:5:"title";s:18:"Top Rated Products";s:6:"number";i:5;}s:12:"_multiwidget";i:1;}s:17:"mc4wp_form_widget";a:1:{s:12:"_multiwidget";i:1;}s:14:"tm_postswidget";a:1:{s:12:"_multiwidget";i:1;}}}

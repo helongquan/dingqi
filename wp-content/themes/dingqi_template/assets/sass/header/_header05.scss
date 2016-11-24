@@ -1,0 +1,89 @@
+.header05 {
+    .site-main-header {
+        background: rgba(0, 0, 0, .3) !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 999999;
+        &.headroom--not-top {
+            background: rgba(0, 0, 0, .6) !important;
+        }
+    }
+    .site-top {
+        background: none !important;
+        .menu {
+            margin: 0 !important;
+            padding: 0 !important;
+            li {
+                margin-left: 15px;
+            }
+        }
+        .menu-top-menu-container {
+            display: inline-block;
+        }
+        .search-btn {
+            margin-left: 15px;
+        }
+    }
+    .site-header {
+        z-index: 999999;
+        background: none !important;
+        .social-menu {
+            ul {
+                margin: 0;
+                padding: 0;
+                text-align: right;
+                li {
+                    width: 36px !important;
+                    height: 36px;
+                    text-align: center;
+                    padding: 0;
+                    margin: 0 2px !important;
+                    line-height: 36px;
+                    border-radius: 50%;
+                    background: #F2F2F5;
+                    @extend %transit;
+                    a {
+                        &:before {
+                            line-height: 36px;
+                            font-size: 14px;
+                            color: #666666;
+                        }
+                    }
+                    &:hover {
+                        opacity: .8;
+                    }
+                }
+            }
+        }
+    }
+    .headroom--not-top {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+        -moz-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+        box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+        .site-top {
+            display: none;
+        }
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    .header05 {
+        .site-top-left, .site-top-right {
+            text-align: center !important;
+        }
+        .site-top {
+            .menu {
+                li {
+                    margin-left: 5px;
+                    margin-right: 5px;
+                }
+            }
+        }
+    }
+}

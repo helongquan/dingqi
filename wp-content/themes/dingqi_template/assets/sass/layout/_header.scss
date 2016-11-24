@@ -1,0 +1,54 @@
+.site-top {
+    position: relative;
+    width: 100%;
+}
+
+.site-branding {
+    position: relative;
+    z-index: 1;
+}
+
+.extra-info {
+    > div {
+        padding: 10px 15px;
+        text-align: left;
+    }
+    i {
+        display: inline-block;
+        float: left;
+        margin-right: 15px;
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+    span {
+        color: #777;
+        font-weight: 600;
+    }
+    h3 {
+        letter-spacing: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 1.2;
+    }
+}
+
+///////////////sm//////////////////
+@include media-breakpoint-up(sm) {
+    body {
+        color: #000;
+    }
+}
+
+///////////////md//////////////////
+@include media-breakpoint-up(md) {
+    .site-top {
+        .social-menu {
+            position: relative;
+            display: inline-block;
+            ul {
+                position: relative;
+                z-index: 2;
+            }
+        }
+    }
+}

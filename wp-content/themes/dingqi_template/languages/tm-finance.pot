@@ -1,0 +1,2309 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kirki Toolkit 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kirki\n"
+"POT-Creation-Date: 2015-10-11 21:58:53+00:00\n"
+"POT-Revision-Date: Fri Feb 19 2016 15:33:32 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2"
+
+#: ../404.php:19
+msgid "404 Page Not Found"
+msgstr ""
+
+#: ../404.php:28
+msgid "Looks Like Something Went Wrong!"
+msgstr ""
+
+#: ../404.php:30
+msgid ""
+"The page you were looking for is not here. Maybe you want to perform a "
+"search?"
+msgstr ""
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:38 ../comments.php:65
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:43 ../comments.php:70
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:45 ../comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:93
+msgid "Name *"
+msgstr ""
+
+#: ../comments.php:94
+msgid "Email *"
+msgstr ""
+
+#: ../comments.php:95
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:106
+msgid "Comment *"
+msgstr ""
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:49
+msgid "Social Menu"
+msgstr ""
+
+#: ../functions.php:50
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:107
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:109
+msgid "Main sidebar"
+msgstr ""
+
+#: ../functions.php:117
+msgid "Top Slider"
+msgstr ""
+
+#: ../functions.php:119
+msgid "Top slider for special skins"
+msgstr ""
+
+#: ../functions.php:127
+msgid "Header 01 Info"
+msgstr ""
+
+#: ../functions.php:129
+msgid "Header info for special skins"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Sidebar for Shop"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Sidebar for all shop pages"
+msgstr ""
+
+#: ../functions.php:148
+msgid "Footer 1 Widget Area"
+msgstr ""
+
+#: ../functions.php:150
+msgid "Footer column 1"
+msgstr ""
+
+#: ../functions.php:158
+msgid "Footer 2 Widget Area"
+msgstr ""
+
+#: ../functions.php:160
+msgid "Footer column 2"
+msgstr ""
+
+#: ../functions.php:168
+msgid "Footer 3 Widget Area"
+msgstr ""
+
+#: ../functions.php:170
+msgid "Footer column 3"
+msgstr ""
+
+#: ../functions.php:359
+msgid "Customize"
+msgstr ""
+
+#: ../functions.php:365
+msgid "Need Support?"
+msgstr ""
+
+#: ../functions.php:382 ../functions.php:399 ../inc/vc-maps/testimonial.php:22 ..
+#: /inc/vc-maps/testimonial.php:31 ../inc/vc-maps/testimonial.php:41 ../inc/vc-
+#: maps/testimonial.php:89 ../inc/vc-maps/testimonial.php:99 ../inc/vc-
+#: maps/testimonial.php:110
+msgid "No"
+msgstr ""
+
+#: ../functions.php:392
+msgid "You're using the theme"
+msgstr ""
+
+#: ../functions.php:394
+msgid ""
+"Want to help make our theme even more awesome? Allow us to collect your "
+"website URL."
+msgstr ""
+
+#: ../functions.php:397
+msgid "Yes, I accept"
+msgstr ""
+
+#: ../functions.php:408
+msgid "Thanks for your choosed!"
+msgstr ""
+
+#: ../functions.php:427 ../inc/vc-maps/testimonial.php:69
+msgid "Date"
+msgstr ""
+
+#: ../functions.php:428
+msgid "Enter the date of this project."
+msgstr ""
+
+#: ../index.php:18
+msgid "Blog"
+msgstr ""
+
+#: ../page.php:61 ../projects/archive-project.php:70 ../template-parts/content-
+#: page.php:20 ../template-parts/content-single.php:37 ../template-parts/content.
+#: php:33
+msgid "Pages:"
+msgstr ""
+
+#: ../search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "News Archive Grid"
+msgstr ""
+
+#. Name of the template
+msgid "News Archive List"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:53
+msgid "Background Color"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:54
+msgid "Background Image"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:55
+msgid "No Repeat"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:56
+msgid "Repeat All"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:57
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:58
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:59 ../inc/vc-maps/custom-
+#: heading.php:19
+msgid "Inherit"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:60
+msgid "Background Repeat"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:61
+msgid "Cover"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:62
+msgid "Contain"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:63
+msgid "Background Size"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:64
+msgid "Fixed"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:65
+msgid "Scroll"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:66
+msgid "Background Attachment"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:67
+msgid "Left Top"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:68
+msgid "Left Center"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:69
+msgid "Left Bottom"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:70
+msgid "Right Top"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:71
+msgid "Right Center"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:72
+msgid "Right Bottom"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:73
+msgid "Center Top"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:74
+msgid "Center Center"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:75
+msgid "Center Bottom"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:76
+msgid "Background Position"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:77
+msgid "Background Opacity"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:78
+msgid "ON"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:79
+msgid "OFF"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:80
+msgid "All"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:81
+msgid "Cyrillic"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:82
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:83
+msgid "Devanagari"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:84
+msgid "Greek"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:85
+msgid "Greek Extended"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:86
+msgid "Khmer"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:87
+msgid "Latin"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:88
+msgid "Latin Extended"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:89
+msgid "Vietnamese"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:90
+msgid "Hebrew"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:91
+msgid "Arabic"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:92
+msgid "Bengali"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:93
+msgid "Gujarati"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:94
+msgid "Tamil"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:95
+msgid "Telugu"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:96
+msgid "Thai"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:97
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:98
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:99
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:100
+msgid "Font Family"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:101
+msgid "Font Size"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:102 ../inc/vc-maps/custom-
+#: heading.php:6
+msgid "Font Weight"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:103
+msgid "Line Height"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:104 ../inc/vc-maps/custom-
+#: heading.php:24
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:105 ../inc/customizer/panels.
+#: php:13
+msgid "Top"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:106
+msgid "Bottom"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:107
+msgid "Left"
+msgstr ""
+
+#: ../core/kirki/includes/class-kirki-toolkit.php:108
+msgid "Right"
+msgstr ""
+
+#: ../core/kirki/includes/controls/class-kirki-controls-repeater-control.php:34
+msgid "Add new row"
+msgstr ""
+
+#: ../inc/back-compat.php:38 ../inc/back-compat.php:48 ../inc/back-compat.php:62
+#, php-format
+msgid ""
+"Infinity requires at least WordPress version 3.9. You are running version %s."
+" Please upgrade and try again."
+msgstr ""
+
+#: ../inc/extras.php:81
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/extras.php:113
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../inc/extras.php:155
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/extras.php:159
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../inc/extras.php:161
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../inc/extras.php:162
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/extras.php:302
+msgid "New title"
+msgstr ""
+
+#: ../inc/extras.php:317
+msgid "Title:"
+msgstr ""
+
+#: ../inc/extras.php:324 ../inc/vc-template/thememove_projectdetails.php:35
+msgid "Category:"
+msgstr ""
+
+#: ../inc/extras.php:346
+msgid "Category: "
+msgstr ""
+
+#: ../inc/extras.php:354
+msgid "Number:"
+msgstr ""
+
+#: ../inc/meta-box.php:49
+msgid "Page Settings"
+msgstr ""
+
+#: ../inc/meta-box.php:58
+msgid "Page Layout"
+msgstr ""
+
+#: ../inc/meta-box.php:59
+msgid "Choose a layout you want"
+msgstr ""
+
+#: ../inc/meta-box.php:63 ../inc/vc-maps/google-map.php:76
+msgid "Default"
+msgstr ""
+
+#: ../inc/meta-box.php:64 ../inc/customizer/page/general.php:15 ..
+#: /inc/customizer/page/general.php:30 ../inc/customizer/page/general.php:45 ..
+#: /inc/customizer/post/general.php:15 ../inc/customizer/woocommerce/general.php:
+#: 14 ../inc/customizer/woocommerce/general.php:29
+msgid "Full width"
+msgstr ""
+
+#: ../inc/meta-box.php:65
+msgid "Content-Sidebar"
+msgstr ""
+
+#: ../inc/meta-box.php:66
+msgid "Sidebar-Content"
+msgstr ""
+
+#: ../inc/meta-box.php:70
+msgid "Disable Title"
+msgstr ""
+
+#: ../inc/meta-box.php:71
+msgid "Check this box to disable the title of the page"
+msgstr ""
+
+#: ../inc/meta-box.php:76
+msgid "Title Background"
+msgstr ""
+
+#: ../inc/meta-box.php:77
+msgid "Upload an image or enter a URL for heading title"
+msgstr ""
+
+#: ../inc/meta-box.php:82
+msgid "Disable Comment"
+msgstr ""
+
+#: ../inc/meta-box.php:83
+msgid "Check this box to disable comment form of the page"
+msgstr ""
+
+#: ../inc/meta-box.php:88
+msgid "Custom Class"
+msgstr ""
+
+#: ../inc/meta-box.php:89
+msgid "Enter custom class for this page"
+msgstr ""
+
+#: ../inc/template-tags.php:45
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../inc/template-tags.php:46
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:73
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:79
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:84
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template-tags.php:110
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:142
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: ../inc/template-tags.php:147
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:164 ../inc/template-tags.php:170 ../inc/vc-
+#: template/thememove_recentposts.php:47 ../template-parts/content-blog-grid.php:
+#: 24 ../template-parts/content-blog.php:26 ../template-parts/content-index.php:
+#: 22 ../template-parts/content-single.php:27
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:166
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:172
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:178
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:178
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:178
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:182 ../template-parts/content-page.php:28
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:199
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:201
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:203
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:205
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:205
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../inc/template-tags.php:207
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:207
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../inc/template-tags.php:209
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:209
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: ../inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: ../inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: ../inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: ../inc/template-tags.php:220
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: ../inc/template-tags.php:222
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: ../inc/template-tags.php:224
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: ../inc/template-tags.php:226
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: ../inc/template-tags.php:228
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: ../inc/template-tags.php:231
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../inc/template-tags.php:235
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:237
+msgid "Archives"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:324 ../inc/tgm-plugin-registration.php:96
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:325 ../inc/tgm-plugin-registration.php:97
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:326 ../inc/tgm-plugin-registration.php:98
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:327 ../inc/tgm-plugin-registration.php:100
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:328 ../inc/tgm-plugin-registration.php:101
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:333 ../inc/tgm-plugin-registration.php:103
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:338 ../inc/tgm-plugin-registration.php:105
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:343 ../inc/tgm-plugin-registration.php:107
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:348 ../inc/tgm-plugin-registration.php:109
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:353 ../inc/tgm-plugin-registration.php:111
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:358 ../inc/tgm-plugin-registration.php:113
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:363 ../inc/tgm-plugin-registration.php:115
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:368 ../inc/tgm-plugin-registration.php:117
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:373 ../inc/tgm-plugin-registration.php:119
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:378 ../inc/tgm-plugin-registration.php:120
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:383 ../inc/tgm-plugin-registration.php:121
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:388 ../inc/tgm-plugin-registration.php:122
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:389
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:390 ../inc/tgm-plugin-activation.php:3092 ..
+#: /inc/tgm-plugin-registration.php:123
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:391 ../inc/tgm-plugin-activation.php:2889 ..
+#: /inc/tgm-plugin-registration.php:124
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:392 ../inc/tgm-plugin-registration.php:125
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:393 ../inc/tgm-plugin-registration.php:127
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:394 ../inc/tgm-plugin-registration.php:129
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:396 ../inc/tgm-plugin-registration.php:131
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:527
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:528
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:642
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:837 ../inc/tgm-plugin-activation.php:3505
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:945
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:945 ../inc/tgm-plugin-activation.php:951
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:951
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:1133 ../inc/tgm-plugin-activation.php:2885
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:1922
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2214
+msgid "Required"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2217
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2234
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2237
+msgid "External Source"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2240
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2258
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2262
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2264
+msgid "Active"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2270
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2273
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2276
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2284
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2330
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:2333
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:2336
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:2339
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-plugin-activation.php:2425
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2433
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2441
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2453
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2476
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2490
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2491
+msgid "Source"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2492 ../inc/vc-maps/ourteam.php:10 ../inc/vc-
+#: maps/recent-post.php:9
+msgid "Type"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2496
+msgid "Version"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2497
+msgid "Status"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2546
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2550
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2555
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2627
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2660
+msgid "Install"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2666
+msgid "Update"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2669
+msgid "Activate"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2700
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2702
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2738
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2740
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2845
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:2871
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3091
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3429
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3431
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3432
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3436
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3437
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3437 ../inc/tgm-plugin-activation.php:3443
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3437 ../inc/tgm-plugin-activation.php:3443
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3438
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3439
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3442
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3443
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3444
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/tgm-plugin-activation.php:3445
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/customizer/panels.php:6
+msgid "Site"
+msgstr ""
+
+#: ../inc/customizer/panels.php:7 ../inc/customizer/panels.php:28 ..
+#: /inc/customizer/panels.php:35 ../inc/customizer/panels.php:42 ..
+#: /inc/customizer/panels.php:49 ../inc/customizer/panels.php:56
+msgid "My Description"
+msgstr ""
+
+#: ../inc/customizer/panels.php:14 ../inc/customizer/panels.php:21
+msgid "Top area above header with break news and social icons"
+msgstr ""
+
+#: ../inc/customizer/panels.php:20
+msgid "Header"
+msgstr ""
+
+#: ../inc/customizer/panels.php:27
+msgid "Navigation"
+msgstr ""
+
+#: ../inc/customizer/panels.php:34
+msgid "Footer"
+msgstr ""
+
+#: ../inc/customizer/panels.php:41
+msgid "Page"
+msgstr ""
+
+#: ../inc/customizer/panels.php:48
+msgid "Post"
+msgstr ""
+
+#: ../inc/customizer/panels.php:55
+msgid "Woocommerce"
+msgstr ""
+
+#: ../inc/customizer/panels.php:62 ../inc/vc-maps/google-map.php:87
+msgid "Custom"
+msgstr ""
+
+#: ../inc/customizer/panels.php:63
+msgid "You can add custom CSS and Javascript here"
+msgstr ""
+
+#: ../inc/customizer/custom/css.php:8 ../inc/customizer/custom/js.php:8 ..
+#: /inc/customizer/top/general.php:8 ../inc/vc-maps/google-map.php:53
+msgid "Enable"
+msgstr ""
+
+#: ../inc/customizer/custom/css.php:9 ../inc/customizer/custom/js.php:9 ..
+#: /inc/customizer/top/general.php:9
+msgid "Enabling this option will display top area"
+msgstr ""
+
+#: ../inc/customizer/custom/css.php:18 ../inc/customizer/custom/_custom.php:6
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/customizer/custom/js.php:18 ../inc/customizer/custom/_custom.php:12
+msgid "Custom JS"
+msgstr ""
+
+#: ../inc/customizer/footer/content.php:8
+msgid "Set up font settings for footer text"
+msgstr ""
+
+#: ../inc/customizer/footer/content.php:37 ../inc/customizer/footer/copyright.php:
+#: 97 ../inc/vc-maps/button.php:9
+msgid "Text"
+msgstr ""
+
+#: ../inc/customizer/footer/content.php:38
+msgid "Choose color for footer text"
+msgstr ""
+
+#: ../inc/customizer/footer/content.php:61 ../inc/customizer/footer/copyright.php:
+#: 128 ../inc/customizer/site/breadcrumb.php:38
+msgid "Link"
+msgstr ""
+
+#: ../inc/customizer/footer/content.php:62
+msgid "Choose color for footer text link"
+msgstr ""
+
+#: ../inc/customizer/footer/content.php:85
+msgid "Choose color for footer text link on hover"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:8 ../inc/customizer/footer/_footer.php:20
+msgid "Copyright"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:9
+msgid "Enabling this option will display copyright area"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:18 ../inc/customizer/footer/general.php:
+#: 32 ../inc/customizer/header/general.php:46 ../inc/customizer/page/title.php:61 
+#: ../inc/customizer/top/general.php:49
+msgid "Padding"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:19
+msgid "Setup padding for your copyright"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:49 ../inc/customizer/footer/copyright.
+#: php:73 ../inc/customizer/footer/_footer.php:13 ../inc/customizer/site/_site.
+#: php:14 ../inc/customizer/top/_top.php:13 ../inc/vc-maps/history.php:23
+msgid "Content"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:50 ../inc/customizer/top/content.php:9
+msgid "Entry the text for left block"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:74
+msgid "Entry the text for right block"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:98
+msgid "Choose color for copyright text"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:129
+msgid "Choose color for copyright text link"
+msgstr ""
+
+#: ../inc/customizer/footer/copyright.php:159
+msgid "Choose color for copyright text link on hover"
+msgstr ""
+
+#: ../inc/customizer/footer/general.php:8 ../inc/customizer/header/general.php:23 
+#: ../inc/customizer/page/title.php:84 ../inc/customizer/site/bg.php:8 ..
+#: /inc/customizer/top/general.php:18 ../inc/vc-maps/skill.php:23
+msgid "Background color"
+msgstr ""
+
+#: ../inc/customizer/footer/general.php:9
+msgid "Setup background color for your footer"
+msgstr ""
+
+#: ../inc/customizer/footer/general.php:33
+msgid "Setup padding for your footer"
+msgstr ""
+
+#: ../inc/customizer/footer/_footer.php:6 ../inc/customizer/header/_header.php:6 .
+#: ./inc/customizer/navigation/_nav.php:5 ../inc/customizer/page/_page.php:5 ..
+#: /inc/customizer/post/_post.php:5 ../inc/customizer/top/_top.php:6 ..
+#: /inc/customizer/woocommerce/_woo.php:6
+msgid "General"
+msgstr ""
+
+#: ../inc/customizer/header/general.php:8
+msgid "Header Type"
+msgstr ""
+
+#: ../inc/customizer/header/general.php:9
+msgid "Choose the header type you want"
+msgstr ""
+
+#: ../inc/customizer/header/general.php:69 ../inc/customizer/navigation/general.
+#: php:41 ../inc/customizer/top/general.php:80
+msgid "Margin"
+msgstr ""
+
+#: ../inc/customizer/header/logo.php:8
+msgid "Normal"
+msgstr ""
+
+#: ../inc/customizer/header/logo.php:9
+msgid "Choose a default logo image to display"
+msgstr ""
+
+#: ../inc/customizer/header/logo.php:18
+msgid "Retina"
+msgstr ""
+
+#: ../inc/customizer/header/logo.php:19
+msgid "Choose a image for retina logo"
+msgstr ""
+
+#: ../inc/customizer/header/search.php:8 ../inc/customizer/header/_header.php:20
+msgid "Search"
+msgstr ""
+
+#: ../inc/customizer/header/search.php:9
+msgid "Turn on this option if you want to enable search box in header"
+msgstr ""
+
+#: ../inc/customizer/header/_header.php:13
+msgid "Logo"
+msgstr ""
+
+#: ../inc/customizer/header/_header.php:27
+msgid "Mini cart"
+msgstr ""
+
+#: ../inc/customizer/navigation/desktop-menu.php:36
+msgid "Item color"
+msgstr ""
+
+#: ../inc/customizer/navigation/desktop-menu.php:37
+msgid "Choose color for level 1 menu item"
+msgstr ""
+
+#: ../inc/customizer/navigation/desktop-menu.php:60
+msgid "Color for level 1 menu item on hover"
+msgstr ""
+
+#: ../inc/customizer/navigation/desktop-menu.php:82
+msgid "Item padding"
+msgstr ""
+
+#: ../inc/customizer/navigation/desktop-menu.php:84
+msgid "Set up padding for menu item"
+msgstr ""
+
+#: ../inc/customizer/navigation/desktop-menu.php:106
+msgid "Item margin"
+msgstr ""
+
+#: ../inc/customizer/navigation/desktop-menu.php:108
+msgid "Set up margin for menu item"
+msgstr ""
+
+#: ../inc/customizer/navigation/general.php:8
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../inc/customizer/navigation/general.php:9
+msgid "Turn on this option if you want to enable sticky header on your site"
+msgstr ""
+
+#: ../inc/customizer/navigation/general.php:18
+msgid "Main background"
+msgstr ""
+
+#: ../inc/customizer/navigation/general.php:19
+msgid "Choose background color for main menu"
+msgstr ""
+
+#: ../inc/customizer/navigation/general.php:43
+msgid "Set up margin for main menu"
+msgstr ""
+
+#: ../inc/customizer/navigation/mobile-menu.php:8 ../inc/customizer/site/heading.
+#: php:211 ../inc/vc-maps/roundedicon.php:23
+msgid "Color"
+msgstr ""
+
+#: ../inc/customizer/navigation/mobile-menu.php:9
+msgid "Choose color for mobile menu icon"
+msgstr ""
+
+#: ../inc/customizer/navigation/mobile-menu.php:30 ../inc/customizer/site/_site.
+#: php:43
+msgid "Background"
+msgstr ""
+
+#: ../inc/customizer/navigation/mobile-menu.php:31
+msgid "Choose background color for mobile menu"
+msgstr ""
+
+#: ../inc/customizer/navigation/_nav.php:12
+msgid "Mobile menu"
+msgstr ""
+
+#: ../inc/customizer/navigation/_nav.php:19
+msgid "Desktop menu"
+msgstr ""
+
+#: ../inc/customizer/page/general.php:8
+msgid "Page layout"
+msgstr ""
+
+#: ../inc/customizer/page/general.php:9 ../inc/customizer/page/general.php:10 ..
+#: /inc/customizer/post/general.php:9 ../inc/customizer/post/general.php:10
+msgid "Choose the site layout you want"
+msgstr ""
+
+#: ../inc/customizer/page/general.php:16 ../inc/customizer/page/general.php:31 ..
+#: /inc/customizer/page/general.php:46 ../inc/customizer/post/general.php:16 ..
+#: /inc/customizer/woocommerce/general.php:15 ..
+#: /inc/customizer/woocommerce/general.php:30
+msgid "Content - Sidebar"
+msgstr ""
+
+#: ../inc/customizer/page/general.php:17 ../inc/customizer/page/general.php:32 ..
+#: /inc/customizer/page/general.php:47 ../inc/customizer/post/general.php:17 ..
+#: /inc/customizer/woocommerce/general.php:16 ..
+#: /inc/customizer/woocommerce/general.php:31
+msgid "Sidebar Content"
+msgstr ""
+
+#: ../inc/customizer/page/general.php:24
+msgid "Archive layout"
+msgstr ""
+
+#: ../inc/customizer/page/general.php:25
+msgid "Choose the archive layout you want"
+msgstr ""
+
+#: ../inc/customizer/page/general.php:39
+msgid "Search layout"
+msgstr ""
+
+#: ../inc/customizer/page/general.php:40
+msgid "Choose the search layout you want"
+msgstr ""
+
+#: ../inc/customizer/page/title.php:8
+msgid "Set up font settings for page title"
+msgstr ""
+
+#: ../inc/customizer/page/title.php:37 ../inc/customizer/site/content.php:37 ..
+#: /inc/customizer/top/content.php:68
+msgid "Text color"
+msgstr ""
+
+#: ../inc/customizer/page/title.php:38 ../inc/customizer/site/content.php:38
+msgid "Choose color for body text"
+msgstr ""
+
+#: ../inc/customizer/page/title.php:85 ../inc/customizer/site/bg.php:9
+msgid "Setup background color for your header"
+msgstr ""
+
+#: ../inc/customizer/page/title.php:108
+msgid "Overlay color"
+msgstr ""
+
+#: ../inc/customizer/page/title.php:109
+msgid "Setup overlay color for your header"
+msgstr ""
+
+#: ../inc/customizer/page/title.php:131
+msgid "Background image"
+msgstr ""
+
+#: ../inc/customizer/page/title.php:132
+msgid "Default background image for your header"
+msgstr ""
+
+#: ../inc/customizer/page/_page.php:12 ../inc/vc-maps/testimonial.php:68
+msgid "Title"
+msgstr ""
+
+#: ../inc/customizer/post/general.php:8
+msgid "Post layout"
+msgstr ""
+
+#: ../inc/customizer/site/breadcrumb.php:12 ../inc/customizer/site/_site.php:28
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../inc/customizer/site/breadcrumb.php:13
+msgid "Enabling this option will display breadcrumb on every page"
+msgstr ""
+
+#: ../inc/customizer/site/breadcrumb.php:22
+msgid "\"Home\" text"
+msgstr ""
+
+#: ../inc/customizer/site/breadcrumb.php:39
+msgid "Choose a color for link"
+msgstr ""
+
+#: ../inc/customizer/site/breadcrumb.php:69
+msgid "Choose a color for link on hover"
+msgstr ""
+
+#: ../inc/customizer/site/content.php:8
+msgid "Set up font settings for body text"
+msgstr ""
+
+#: ../inc/customizer/site/content.php:61 ../inc/customizer/top/content.php:99
+msgid "Link color"
+msgstr ""
+
+#: ../inc/customizer/site/content.php:62 ../inc/customizer/top/content.php:100
+msgid "Choose color for text link"
+msgstr ""
+
+#: ../inc/customizer/site/content.php:85 ../inc/customizer/top/content.php:130
+msgid "Choose color for text link on hover"
+msgstr ""
+
+#: ../inc/customizer/site/heading.php:8
+msgid "Set up font settings for heading tag"
+msgstr ""
+
+#: ../inc/customizer/site/heading.php:36
+msgid "Font size"
+msgstr ""
+
+#: ../inc/customizer/site/heading.php:37
+msgid "H1"
+msgstr ""
+
+#: ../inc/customizer/site/heading.php:66
+msgid "H2"
+msgstr ""
+
+#: ../inc/customizer/site/heading.php:95
+msgid "H3"
+msgstr ""
+
+#: ../inc/customizer/site/heading.php:124
+msgid "H4"
+msgstr ""
+
+#: ../inc/customizer/site/heading.php:153
+msgid "H5"
+msgstr ""
+
+#: ../inc/customizer/site/heading.php:182
+msgid "H6"
+msgstr ""
+
+#: ../inc/customizer/site/other.php:8
+msgid "Box mode"
+msgstr ""
+
+#: ../inc/customizer/site/other.php:9
+msgid "Enabling this option then your site will switch to box mode"
+msgstr ""
+
+#: ../inc/customizer/site/other.php:18
+msgid "Back to top"
+msgstr ""
+
+#: ../inc/customizer/site/other.php:19
+msgid "Enabling this option will display back to top button"
+msgstr ""
+
+#: ../inc/customizer/site/skin.php:16
+msgid "Choose a preset you want"
+msgstr ""
+
+#: ../inc/customizer/site/skin.php:23
+msgid "Preset 1"
+msgstr ""
+
+#: ../inc/customizer/site/skin.php:30
+msgid "Preset 2"
+msgstr ""
+
+#: ../inc/customizer/site/_site.php:6
+msgid "Skin"
+msgstr ""
+
+#: ../inc/customizer/site/_site.php:8
+msgid "By combine preset and color scheme you can make unlimited skin"
+msgstr ""
+
+#: ../inc/customizer/site/_site.php:21
+msgid "Heading"
+msgstr ""
+
+#: ../inc/customizer/site/_site.php:35
+msgid "Other"
+msgstr ""
+
+#: ../inc/customizer/top/content.php:8
+msgid "Left Text"
+msgstr ""
+
+#: ../inc/customizer/top/content.php:32
+msgid "Set up font settings for top area text"
+msgstr ""
+
+#: ../inc/customizer/top/content.php:69
+msgid "Choose color for text"
+msgstr ""
+
+#: ../inc/customizer/top/general.php:19
+msgid "Setup background color for your top"
+msgstr ""
+
+#: ../inc/customizer/top/general.php:50
+msgid "Set up padding for top area"
+msgstr ""
+
+#: ../inc/customizer/top/general.php:81
+msgid "Set up margin for top area"
+msgstr ""
+
+#: ../inc/customizer/woocommerce/general.php:8
+msgid "Category layout"
+msgstr ""
+
+#: ../inc/customizer/woocommerce/general.php:9
+msgid "Choose the category product page layout you want"
+msgstr ""
+
+#: ../inc/customizer/woocommerce/general.php:23
+msgid "Single layout"
+msgstr ""
+
+#: ../inc/customizer/woocommerce/general.php:24
+msgid "Choose the product page layout you want"
+msgstr ""
+
+#: ../inc/vc-maps/blog.php:3
+msgid "BLog"
+msgstr ""
+
+#: ../inc/vc-maps/blog.php:5 ../inc/vc-maps/button.php:5 ../inc/vc-maps/google-
+#: map.php:5 ../inc/vc-maps/history.php:5 ../inc/vc-maps/ourteam.php:5 ../inc/vc-
+#: maps/projectdetail.php:6 ../inc/vc-maps/recent-post.php:5 ../inc/vc-
+#: maps/roundedicon.php:5 ../inc/vc-maps/skill.php:5 ../inc/vc-maps/testimonial.
+#: php:5
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../inc/vc-maps/button.php:3
+msgid "Button"
+msgstr ""
+
+#: ../inc/vc-maps/button.php:15
+msgid "Url"
+msgstr ""
+
+#: ../inc/vc-maps/button.php:18
+msgid "Entry your url here"
+msgstr ""
+
+#: ../inc/vc-maps/button.php:22 ../inc/vc-maps/roundedicon.php:10
+msgid "Icon"
+msgstr ""
+
+#: ../inc/vc-maps/button.php:25
+msgid "Example: fa-arrow-right"
+msgstr ""
+
+#: ../inc/vc-maps/button.php:29
+msgid "Class"
+msgstr ""
+
+#: ../inc/vc-maps/custom-heading.php:11
+msgid "Text Transform"
+msgstr ""
+
+#: ../inc/vc-maps/custom-heading.php:14 ../inc/vc-maps/testimonial.php:66
+msgid "None"
+msgstr ""
+
+#: ../inc/vc-maps/custom-heading.php:15
+msgid "Capitalize"
+msgstr ""
+
+#: ../inc/vc-maps/custom-heading.php:16
+msgid "Uppercase"
+msgstr ""
+
+#: ../inc/vc-maps/custom-heading.php:17
+msgid "Lowercase"
+msgstr ""
+
+#: ../inc/vc-maps/custom-heading.php:18
+msgid "Initial"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:3
+msgid "Google Maps"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:9
+msgid "Address or Coordinate"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:13
+msgid "Enter address or coordinate."
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:17
+msgid "Marker icon"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:19
+msgid "Choose a image for marker address"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:23
+msgid "Marker Information"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:25
+msgid "Content for info window"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:29
+msgid "Height"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:32
+msgid "Enter map height (in pixels or percentage)"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:36
+msgid "Width"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:39
+msgid "Enter map width (in pixels or percentage)"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:43
+msgid "Zoom level"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:46 ../inc/vc-maps/row.php:42
+msgid "Map zoom level"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:50
+msgid "Enable Map zoom"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:58
+msgid "Map type"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:61
+msgid "Choose a map type"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:63
+msgid "Roadmap"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:64
+msgid "Satellite"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:65
+msgid "Hybrid"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:66
+msgid "Terrain"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:71
+msgid "Map style"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:74
+msgid ""
+"Choose a map style. This approach changes the style of the Roadmap types "
+"(base imagery in terrain and satellite views is not affected, but roads, "
+"labels, etc. respect styling rules"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:77
+msgid "Grayscale"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:78
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:79
+msgid "Apple Maps-esque"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:80
+msgid "Pale Dawn"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:81
+msgid "Muted Blue"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:82
+msgid "Paper"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:83
+msgid "Light Dream"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:84
+msgid "Retro"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:85
+msgid "Avocado World"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:86
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:92
+msgid "Map style snippet"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:101 ../inc/vc-maps/history.php:33 ../inc/vc-
+#: maps/ourteam.php:73 ../inc/vc-maps/projectdetail.php:31 ../inc/vc-
+#: maps/roundedicon.php:39 ../inc/vc-maps/skill.php:33 ../inc/vc-maps/testimonial.
+#: php:124
+msgid "Extra class name"
+msgstr ""
+
+#: ../inc/vc-maps/google-map.php:103
+msgid ""
+"If you want to use multiple Google Maps in one page, please add a class name "
+"for them."
+msgstr ""
+
+#: ../inc/vc-maps/history.php:3
+msgid "Our History"
+msgstr ""
+
+#: ../inc/vc-maps/history.php:10
+msgid "History"
+msgstr ""
+
+#: ../inc/vc-maps/history.php:15
+msgid "Label"
+msgstr ""
+
+#: ../inc/vc-maps/history.php:18
+msgid "Enter text used as title."
+msgstr ""
+
+#: ../inc/vc-maps/history.php:26
+msgid "Enter content."
+msgstr ""
+
+#: ../inc/vc-maps/history.php:35 ../inc/vc-maps/projectdetail.php:33
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../inc/vc-maps/history.php:39 ../inc/vc-maps/projectdetail.php:37
+msgid "CSS box"
+msgstr ""
+
+#: ../inc/vc-maps/history.php:41 ../inc/vc-maps/projectdetail.php:39
+msgid "Design Options"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:3
+msgid "Our Team"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:14
+msgid "1"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:15
+msgid "2"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:20
+msgid "Photo"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:23
+msgid "Member photo"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:27 ../inc/vc-maps/skill.php:10
+msgid "Name"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:33
+msgid "Byline"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:35
+msgid "Example: Creative Manager"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:39
+msgid "Description"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:48
+msgid "Facebook url"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:53
+msgid "Twitter url"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:58
+msgid "Instagram url"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:63
+msgid "Youtube url"
+msgstr ""
+
+#: ../inc/vc-maps/ourteam.php:68
+msgid "Profile url"
+msgstr ""
+
+#: ../inc/vc-maps/projectdetail.php:3
+msgid "Project Details"
+msgstr ""
+
+#: ../inc/vc-maps/projectdetail.php:4
+msgid "Only available for Projects."
+msgstr ""
+
+#: ../inc/vc-maps/projectdetail.php:10
+msgid "Layout"
+msgstr ""
+
+#: ../inc/vc-maps/projectdetail.php:13
+msgid "Choose a layout to display project details"
+msgstr ""
+
+#: ../inc/vc-maps/projectdetail.php:21
+msgid "Share buttons"
+msgstr ""
+
+#: ../inc/vc-maps/projectdetail.php:23
+msgid "Do you want to show share buttons bellow?"
+msgstr ""
+
+#: ../inc/vc-maps/recent-post.php:3
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/vc-maps/recent-post.php:12
+msgid "Type 1"
+msgstr ""
+
+#: ../inc/vc-maps/recent-post.php:13
+msgid "Type 2"
+msgstr ""
+
+#: ../inc/vc-maps/recent-post.php:20
+msgid "Show title"
+msgstr ""
+
+#: ../inc/vc-maps/recent-post.php:27
+msgid "Show excerpt"
+msgstr ""
+
+#: ../inc/vc-maps/recent-post.php:34
+msgid "Show Meta"
+msgstr ""
+
+#: ../inc/vc-maps/recent-post.php:39
+msgid "Enter numbers of articles"
+msgstr ""
+
+#: ../inc/vc-maps/roundedicon.php:3
+msgid "Rounded Icon"
+msgstr ""
+
+#: ../inc/vc-maps/roundedicon.php:17
+msgid "Icon text"
+msgstr ""
+
+#: ../inc/vc-maps/row.php:3
+msgid "Advanced Design Options"
+msgstr ""
+
+#: ../inc/vc-maps/row.php:11
+msgid "Choose an overlay color for background. Leave blank for none."
+msgstr ""
+
+#: ../inc/vc-maps/row.php:18
+msgid "Use Google map as background for row."
+msgstr ""
+
+#: ../inc/vc-maps/row.php:30
+msgid ""
+"To learn how to get coordinates, visit https://support.google."
+"com/maps/answer/18539?hl=en"
+msgstr ""
+
+#: ../inc/vc-maps/row.php:53
+msgid "Choose a map type or a custom style map"
+msgstr ""
+
+#: ../inc/vc-maps/row.php:71
+msgid "To get the style snippet, visit https://snazzymaps.com."
+msgstr ""
+
+#: ../inc/vc-maps/skill.php:3
+msgid "Skill"
+msgstr ""
+
+#: ../inc/vc-maps/skill.php:16
+msgid "Value"
+msgstr ""
+
+#: ../inc/vc-maps/skill.php:19
+msgid "Number 1-100"
+msgstr ""
+
+#: ../inc/vc-maps/skill.php:28
+msgid "Bar color"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:3
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:10
+msgid "Style"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:13
+msgid "Style 01"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:14
+msgid "Style 02"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:19
+msgid "Enable Carousel"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:23 ../inc/vc-maps/testimonial.php:32 ../inc/vc-
+#: maps/testimonial.php:42 ../inc/vc-maps/testimonial.php:90 ../inc/vc-
+#: maps/testimonial.php:100 ../inc/vc-maps/testimonial.php:111
+msgid "Yes"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:28
+msgid "Show Bullets"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:38
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:48
+msgid "Slides to display"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:51
+msgid "Number of Slides to display (default: 2)"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:56
+msgid "Number"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:59
+msgid "Number of Testimonials"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:63
+msgid "Order by"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:67
+msgid "ID"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:70
+msgid "Menu Order"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:72 ../inc/vc-maps/testimonial.php:82
+msgid "How to order the items"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:76
+msgid "Order"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:79
+msgid "DESC"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:80
+msgid "ASC"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:86
+msgid "Show Author Info"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:92
+msgid "Choose yes to show author name and byline"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:96
+msgid "Show URL"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:102
+msgid "Choose yes to show author url"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:107
+msgid "Show Author Image"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:113
+msgid "Choose yes to show author avatar"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:117
+msgid "Avatar Size"
+msgstr ""
+
+#: ../inc/vc-maps/testimonial.php:120
+msgid "Size of Avatar"
+msgstr ""
+
+#: ../inc/vc-template/thememove_blog.php:22
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../inc/vc-template/thememove_projectdetails.php:30
+msgid "Date:"
+msgstr ""
+
+#: ../inc/vc-template/thememove_projectdetails.php:33
+msgid "Client:"
+msgstr ""
+
+#: ../inc/vc-template/thememove_projectdetails.php:40
+msgid "Share:"
+msgstr ""
+
+#: ../inc/vc-template/thememove_recentposts.php:45 ../template-parts/content-blog.
+#: php:24 ../template-parts/content-index.php:20 ../template-parts/content-single.
+#: php:25
+msgid "Posted by "
+msgstr ""
+
+#: ../inc/vc-template/thememove_recentposts.php:47 ../template-parts/content-blog-
+#: grid.php:24 ../template-parts/content-blog.php:26 ../template-parts/content-
+#: index.php:22 ../template-parts/content-single.php:27
+msgid "In "
+msgstr ""
+
+#: ../template-parts/content-blog.php:39 ../template-parts/content-index.php:36
+msgid "Continue Reading"
+msgstr ""
+
+#: ../template-parts/content-blog.php:43
+msgid "Share"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-single.php:52
+msgid "Share: "
+msgstr ""
+
+#: ../template-parts/content.php:26
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:40
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:42
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:44
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#. Name of the theme
+msgid "TM Finance"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://finance.thememove.com/"
+msgstr ""
+
+#. Description of the theme
+msgid "The best WP Finance theme"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeMove Team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://thememove.com"
+msgstr ""

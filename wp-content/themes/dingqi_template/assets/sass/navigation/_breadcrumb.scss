@@ -1,0 +1,27 @@
+.breadcrumb {
+    overflow: hidden;
+    width: 100%;
+    font-size: 16px;
+    margin-top: -60px;
+    ul, .tm_bread_crumb {
+        margin: 0;
+        padding: 25px 0;
+        margin-bottom: 60px;
+        width: 100%;
+        border-bottom: 2px solid #DDDDDD;
+        display: block;
+        li {
+            display: inline-block;
+            margin-right: 6px;
+            a:after {
+                margin-left: 10px;
+                content: "\f0da";
+                font-size: 12px;
+                @extend %icon;
+            }
+            &:last-child {
+                margin: 0;
+            }
+        }
+    }
+}
